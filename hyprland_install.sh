@@ -34,3 +34,4 @@ echo "Creating screenshot sound directory..."
 mkdir -p ~/.local/share/sounds
 
 echo "Setup complete. Don't forget to copy your dotfiles and run install.sh!"
+
